@@ -1,6 +1,6 @@
 # Lab One
 
-The Data is sourced from a lot of work done by [https://twitter.com/malware_traffic](malware_traffic)
+The PCAP Data is sourced from a work done by [malware_traffic](https://twitter.com/malware_traffic)
 
 ### References
 
